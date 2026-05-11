@@ -209,7 +209,7 @@ Deployment to the cloud platform **Render**, which automatically deploys the app
  
 ### Screenshot — Auto-Deploy Setting (On Commit)
  
-![Render Auto-Deploy setting showing On Commit](screenshot7_autodeploy.png)
+![Render Auto-Deploy setting showing On Commit](Images/screenshot7_autodeploy.png)
  
 ---
  
