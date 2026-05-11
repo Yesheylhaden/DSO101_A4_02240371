@@ -213,20 +213,7 @@ Deployment to the cloud platform **Render**, which automatically deploys the app
  
 ---
  
-## 7. Self-Assessment Against the Marking Scheme
-
-| Criteria                     | Supporting Information              | Marks |
-|-----------------------------|-----------------------------------|-------|
-| Structure of the project    | Four files created: `app.js`, `app.test.js`, `package.json`, `ci.yml`   | 2 / 2 |
-| Build and testing pipeline  | GitHub Actions performs all steps within 20s with success indicator  | 3 / 3 |
-| Implementation of tests      | Three Jest tests pass; displayed in Actions logs                  | 2 / 2 |
-| Automation of deployment     | Render automatically deploys the application upon commit            | 2 / 2 |
-| Documentation                | Report containing screenshots and code explanation                    | 1 / 1 |
-| **Total**                   |                                   | **10 / 10** |
- 
----
- 
-## 8. Conclusion
+## Conclusion
 
 This project is a successful realization of a full CI/CD pipeline including all necessary elements:
 
